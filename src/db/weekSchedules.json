@@ -1,0 +1,1579 @@
+[
+  {
+    "week": 1,
+    "dates": "Ene 13-19",
+    "phase": 0,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso activo",
+        "detail": "Estiramientos y movilidad (20 min)"
+      },
+      {
+        "day": "Martes",
+        "activity": "Carrera Zona 2",
+        "detail": "6 km, pace 7:30-8:00 min/km"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza general: sentadillas 3x12, peso muerto 3x12, estocadas 3x10, plancha 3x45seg"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Intervalos",
+        "detail": "7 km total: 2km calent + 4x(3min Z3 + 2min Z2) + 1km enfr"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación",
+        "detail": "Clase programada 1 hora"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "10 km Z2, pace 7:45-8:15 en ciclovía"
+      }
+    ]
+  },
+  {
+    "week": 2,
+    "dates": "Ene 20-26",
+    "phase": 0,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso activo",
+        "detail": "Yoga/estiramientos (25 min)"
+      },
+      {
+        "day": "Martes",
+        "activity": "Carrera Zona 2",
+        "detail": "7 km, pace 7:30-8:00 min/km"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza + core: zancadas 3x12, step-ups 3x12, plancha lateral 3x30seg"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Tempo",
+        "detail": "8 km: 2km calent + 4km Z3 (6:45-7:00) + 2km enfr"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación",
+        "detail": "Clase programada 1 hora"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "12 km Z2, pace 7:45-8:15"
+      }
+    ]
+  },
+  {
+    "week": 3,
+    "dates": "Ene 27-Feb 2",
+    "phase": 0,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso activo",
+        "detail": "Rodillo de espuma + estiramientos (20 min)"
+      },
+      {
+        "day": "Martes",
+        "activity": "Carrera Zona 2",
+        "detail": "7 km, pace 7:30-8:00 min/km"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza resistencia: sentadilla búlgara 3x10, peso muerto 1 pierna 3x10"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Intervalos",
+        "detail": "8 km: 2km calent + 6x(2min Z4 + 2min Z2) + 1km enfr"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación",
+        "detail": "Clase programada 1 hora"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "14 km Z2, pace 7:45-8:15"
+      }
+    ]
+  },
+  {
+    "week": 4,
+    "dates": "Feb 3-9",
+    "phase": 0,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "SEMANA DESCARGA" },
+      {
+        "day": "Martes",
+        "activity": "Carrera fácil",
+        "detail": "5 km Z2, pace 8:00"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio ligero",
+        "detail": "Movilidad y core (30 min)"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Activación",
+        "detail": "4 km + 3x100m strides"
+      },
+      { "day": "Viernes", "activity": "Descanso", "detail": "Completo" },
+      { "day": "Sábado", "activity": "Natación", "detail": "Clase 1 hora" },
+      { "day": "Domingo", "activity": "Pre-carrera", "detail": "3 km suave" }
+    ]
+  },
+  {
+    "week": "CARRERA",
+    "dates": "Feb 15",
+    "phase": 0,
+    "workouts": [
+      {
+        "day": "Sábado 15",
+        "activity": "🏃‍♀️ POWERMAN 10K",
+        "detail": "Objetivo: 65-67 min (pace 6:30-6:40). 126m desnivel"
+      }
+    ]
+  },
+  {
+    "week": 5,
+    "dates": "Feb 16-22",
+    "phase": 0,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso",
+        "detail": "Recuperación post-carrera"
+      },
+      {
+        "day": "Martes",
+        "activity": "Descanso",
+        "detail": "O caminata 30 min"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "Natación",
+        "detail": "1h recuperación activa"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera fácil",
+        "detail": "5 km Z2, pace 8:00"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Gimnasio suave",
+        "detail": "30 min mantenimiento"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Cross-training",
+        "detail": "Bici 45 min Z2 o natación"
+      },
+      { "day": "Domingo", "activity": "Carrera larga", "detail": "10 km Z2" }
+    ]
+  },
+  {
+    "week": 6,
+    "dates": "Feb 23-Mar 1",
+    "phase": 0,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso activo",
+        "detail": "Estiramientos (20 min)"
+      },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza general"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Fartlek",
+        "detail": "9 km: 8x(1min Z4 + 2min Z2)"
+      },
+      { "day": "Viernes", "activity": "Descanso", "detail": "Completo" },
+      {
+        "day": "Sábado",
+        "activity": "Cross-training",
+        "detail": "Natación 1h O bici 60min"
+      },
+      { "day": "Domingo", "activity": "Carrera larga", "detail": "16 km Z2" }
+    ]
+  },
+  {
+    "week": 7,
+    "dates": "Mar 2-8",
+    "phase": 0,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso activo",
+        "detail": "Movilidad (25 min)"
+      },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza + plio: saltos 3x8"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Tempo progresivo",
+        "detail": "10 km progresivo"
+      },
+      { "day": "Viernes", "activity": "Descanso", "detail": "Completo" },
+      {
+        "day": "Sábado",
+        "activity": "Cross-training",
+        "detail": "Natación O Rouvy 60min"
+      },
+      { "day": "Domingo", "activity": "Carrera larga", "detail": "18 km Z2" }
+    ]
+  },
+  {
+    "week": 8,
+    "dates": "Mar 9-15",
+    "phase": 0,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "DESCARGA" },
+      { "day": "Martes", "activity": "Carrera fácil", "detail": "6 km Z2" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio suave",
+        "detail": "Core 30 min"
+      },
+      { "day": "Jueves", "activity": "Carrera fácil", "detail": "6 km Z2" },
+      { "day": "Viernes", "activity": "Descanso", "detail": "Completo" },
+      { "day": "Sábado", "activity": "Natación", "detail": "45 min suave" },
+      { "day": "Domingo", "activity": "Carrera larga", "detail": "12 km Z2" }
+    ]
+  },
+  {
+    "week": 9,
+    "dates": "Mar 16-22",
+    "phase": 1,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso",
+        "detail": "Descanso activo o completo"
+      },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza específica running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo / intervalos / fartlek"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo o cross-training suave"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "Natación, bici o descanso"
+      },
+      { "day": "Domingo", "activity": "Carrera larga", "detail": "20 km" }
+    ]
+  },
+  {
+    "week": 10,
+    "dates": "Mar 23-29",
+    "phase": 1,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso",
+        "detail": "Descanso activo o completo"
+      },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza específica running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo / intervalos / fartlek"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo o cross-training suave"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "Natación, bici o descanso"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "16 km (descarga)"
+      }
+    ]
+  },
+  {
+    "week": 11,
+    "dates": "Mar 30-Abr 5",
+    "phase": 1,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso",
+        "detail": "Descanso activo o completo"
+      },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza específica running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo / intervalos / fartlek"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo o cross-training suave"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "Natación, bici o descanso"
+      },
+      { "day": "Domingo", "activity": "Carrera larga", "detail": "22 km" }
+    ]
+  },
+  {
+    "week": 12,
+    "dates": "Abr 6-12",
+    "phase": 1,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso",
+        "detail": "Descanso activo o completo"
+      },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza específica running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo / intervalos / fartlek"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo o cross-training suave"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "Natación, bici o descanso"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "18 km (descarga)"
+      }
+    ]
+  },
+  {
+    "week": 13,
+    "dates": "Abr 13-19",
+    "phase": 1,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso",
+        "detail": "Descanso activo o completo"
+      },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza específica running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo / intervalos / fartlek"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo o cross-training suave"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "Natación, bici o descanso"
+      },
+      { "day": "Domingo", "activity": "Carrera larga", "detail": "25 km" }
+    ]
+  },
+  {
+    "week": 14,
+    "dates": "Abr 20-26",
+    "phase": 1,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso",
+        "detail": "Descanso activo o completo"
+      },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza específica running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo / intervalos / fartlek"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo o cross-training suave"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "Natación, bici o descanso"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "20 km (descarga)"
+      }
+    ]
+  },
+  {
+    "week": 15,
+    "dates": "Abr 27-May 3",
+    "phase": 1,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso",
+        "detail": "Descanso activo o completo"
+      },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza específica running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo / intervalos / fartlek"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo o cross-training suave"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "Natación, bici o descanso"
+      },
+      { "day": "Domingo", "activity": "Carrera larga", "detail": "27 km" }
+    ]
+  },
+  {
+    "week": 16,
+    "dates": "May 4-10",
+    "phase": 1,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso",
+        "detail": "Descanso activo o completo"
+      },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza específica running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo / intervalos / fartlek"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo o cross-training suave"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "Natación, bici o descanso"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "22 km (descarga)"
+      }
+    ]
+  },
+  {
+    "week": 17,
+    "dates": "May 11-17",
+    "phase": 1,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso",
+        "detail": "Descanso activo o completo"
+      },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza específica running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo / intervalos / fartlek"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo o cross-training suave"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "Natación, bici o descanso"
+      },
+      { "day": "Domingo", "activity": "Carrera larga", "detail": "29 km" }
+    ]
+  },
+  {
+    "week": 18,
+    "dates": "May 18-24",
+    "phase": 1,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso",
+        "detail": "Descanso activo o completo"
+      },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza específica running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo / intervalos / fartlek"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo o cross-training suave"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "Natación, bici o descanso"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "24 km (descarga)"
+      }
+    ]
+  },
+  {
+    "week": 19,
+    "dates": "May 25-31",
+    "phase": 1,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso",
+        "detail": "Descanso activo o completo"
+      },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza específica running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo / intervalos / fartlek"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo o cross-training suave"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "Natación, bici o descanso"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "32 km (pico)"
+      }
+    ]
+  },
+  {
+    "week": 20,
+    "dates": "Jun 1-7",
+    "phase": 1,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso",
+        "detail": "Descanso activo o completo"
+      },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza específica running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo / intervalos / fartlek"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo o cross-training suave"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "Natación, bici o descanso"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "20 km (descarga)"
+      }
+    ]
+  },
+  {
+    "week": 21,
+    "dates": "Jun 8-14",
+    "phase": 1,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso",
+        "detail": "Descanso activo o completo"
+      },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza específica running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo / intervalos / fartlek"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo o cross-training suave"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "Natación, bici o descanso"
+      },
+      { "day": "Domingo", "activity": "Carrera larga", "detail": "26 km" }
+    ]
+  },
+  {
+    "week": 22,
+    "dates": "Jun 15-21",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      {
+        "day": "Martes",
+        "activity": "Carrera Zona 2",
+        "detail": "10 km suaves"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza específica running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo 12 km total"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "Sesión aeróbica 60 min"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "26 km Zona 2"
+      }
+    ]
+  },
+  {
+    "week": 23,
+    "dates": "Jun 22-28",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      {
+        "day": "Martes",
+        "activity": "Carrera Zona 2",
+        "detail": "8 km suaves"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Movilidad y core"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Fartlek 10 km"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "45-60 min Zona 2"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "20 km (descarga)"
+      }
+    ]
+  },
+  {
+    "week": 24,
+    "dates": "Jun 29-Jul 5",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "10 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo progresivo 12 km"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "60 min"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "28 km Zona 2"
+      }
+    ]
+  },
+  {
+    "week": 25,
+    "dates": "Jul 6-12",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      {
+        "day": "Martes",
+        "activity": "Carrera Zona 2",
+        "detail": "8 km suaves"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Movilidad + core"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Intervalos 10 km total"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "45 min"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "22 km (descarga)"
+      }
+    ]
+  },
+  {
+    "week": 26,
+    "dates": "Jul 13-19",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "10 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza específica running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo sostenido 14 km"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "60 min"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "30 km Zona 2"
+      }
+    ]
+  },
+  {
+    "week": 27,
+    "dates": "Jul 20-26",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      {
+        "day": "Martes",
+        "activity": "Carrera Zona 2",
+        "detail": "8 km suaves"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Movilidad y core"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Fartlek 10 km"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "45-60 min"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "22 km (descarga)"
+      }
+    ]
+  },
+  {
+    "week": 28,
+    "dates": "Jul 27-Aug 2",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "10 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo largo 14 km"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "60 min"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "32 km Zona 2"
+      }
+    ]
+  },
+  {
+    "week": 29,
+    "dates": "Aug 3-9",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      {
+        "day": "Martes",
+        "activity": "Carrera Zona 2",
+        "detail": "8 km suaves"
+      },
+      { "day": "Miércoles", "activity": "Gimnasio", "detail": "Fuerza ligera" },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Intervalos 10 km"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "45 min"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "24 km (descarga)"
+      }
+    ]
+  },
+  {
+    "week": 30,
+    "dates": "Aug 10-16",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "10 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo a pace maratón 12 km"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "60 min"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "25 km a pace maratón"
+      }
+    ]
+  },
+
+  {
+    "week": 31,
+    "dates": "Aug 17-23",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "10 km" },
+      { "day": "Miércoles", "activity": "Gimnasio", "detail": "Fuerza ligera" },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "2h continuas a pace maratón"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "45 min"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "28 km Zona 2"
+      }
+    ]
+  },
+  {
+    "week": 32,
+    "dates": "Aug 24-30",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Movilidad y core"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo controlado 10 km"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "45 min"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "22 km (descarga)"
+      }
+    ]
+  },
+  {
+    "week": 33,
+    "dates": "Aug 31-Sep 6",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "10 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo + últimos km a pace maratón"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "60 min"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "30 km, últimos 8 km pace maratón"
+      }
+    ]
+  },
+  {
+    "week": 34,
+    "dates": "Sep 7-13",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8 km" },
+      { "day": "Miércoles", "activity": "Gimnasio", "detail": "Movilidad" },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo suave 10 km"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "45 min"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "24 km (descarga)"
+      }
+    ]
+  },
+  {
+    "week": 35,
+    "dates": "Sep 14-20",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "10 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Fuerza running"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Intervalos largos 12 km"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "60 min"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "32 km Zona 2"
+      }
+    ]
+  },
+  {
+    "week": 36,
+    "dates": "Sep 21-27",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Movilidad y core"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo controlado 10 km"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "45 min"
+      },
+      { "day": "Domingo", "activity": "Carrera larga", "detail": "26 km" }
+    ]
+  },
+  {
+    "week": 37,
+    "dates": "Sep 28-Oct 4",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "10 km" },
+      { "day": "Miércoles", "activity": "Gimnasio", "detail": "Fuerza ligera" },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo + strides 10 km"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "45 min"
+      },
+      { "day": "Domingo", "activity": "Carrera larga", "detail": "30 km" }
+    ]
+  },
+  {
+    "week": 38,
+    "dates": "Oct 5-11",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8 km" },
+      { "day": "Miércoles", "activity": "Gimnasio", "detail": "Movilidad" },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo suave 10 km"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "45 min"
+      },
+      { "day": "Domingo", "activity": "Carrera larga", "detail": "28 km" }
+    ]
+  },
+  {
+    "week": 39,
+    "dates": "Oct 12-18",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "10 km" },
+      { "day": "Miércoles", "activity": "Gimnasio", "detail": "Fuerza ligera" },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo progresivo 12 km"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "45 min"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "32 km, últimos 10 km a pace maratón"
+      }
+    ]
+  },
+  {
+    "week": 40,
+    "dates": "Oct 19-25",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8 km" },
+      { "day": "Miércoles", "activity": "Gimnasio", "detail": "Movilidad" },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo suave 8 km"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "40 min"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "20 km (descarga)"
+      }
+    ]
+  },
+  {
+    "week": 41,
+    "dates": "Oct 26-Nov 1",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8 km" },
+      { "day": "Miércoles", "activity": "Gimnasio", "detail": "Movilidad" },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Activación suave 6 km"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Descanso",
+        "detail": "Preparación carrera"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Media maratón",
+        "detail": "21 km a pace maratón o ligeramente más rápido"
+      }
+    ]
+  },
+  {
+    "week": 42,
+    "dates": "Nov 2-8",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8 km" },
+      { "day": "Miércoles", "activity": "Gimnasio", "detail": "Movilidad" },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo suave 8 km"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Bicicleta",
+        "detail": "40 min"
+      },
+      { "day": "Domingo", "activity": "Carrera larga", "detail": "24 km" }
+    ]
+  },
+  {
+    "week": 43,
+    "dates": "Nov 9-15",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "6 km" },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Movilidad y core ligero"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "Tempo suave 6 km"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Caminata",
+        "detail": "30-40 min"
+      },
+      { "day": "Domingo", "activity": "Carrera larga", "detail": "18 km" }
+    ]
+  },
+  {
+    "week": 44,
+    "dates": "Nov 16-22",
+    "phase": 2,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso activo",
+        "detail": "Estiramientos suaves 15 min"
+      },
+      {
+        "day": "Martes",
+        "activity": "Carrera Zona 2",
+        "detail": "6 km, pace cómodo"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "Gimnasio",
+        "detail": "Movilidad y core ligero 20 min"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera",
+        "detail": "5 km + 4x100 m strides"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Natación / Caminata",
+        "detail": "30 min suave"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "14 km Zona 2"
+      }
+    ]
+  },
+  {
+    "week": 45,
+    "dates": "Nov 23-29",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      {
+        "day": "Martes",
+        "activity": "Carrera muy suave",
+        "detail": "4 km + 3x80 m strides"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "Caminata",
+        "detail": "30 min + estiramientos suaves"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Descanso",
+        "detail": "Descanso completo"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Caminata",
+        "detail": "20 min + visualización mental"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Descanso",
+        "detail": "Preparar carrera, hidratación y nutrición"
+      },
+      {
+        "day": "Domingo",
+        "activity": "MARATÓN",
+        "detail": "42.2 km — carrera objetivo"
+      }
+    ]
+  },
+  {
+    "week": 46,
+    "dates": "Nov 23-29",
+    "phase": 2,
+    "workouts": [
+      { "day": "Lunes 23", "activity": "Descanso", "detail": "Completo" },
+      {
+        "day": "Martes 24",
+        "activity": "Carrera suave",
+        "detail": "4 km + 3x80m strides"
+      },
+      {
+        "day": "Miércoles 25",
+        "activity": "Caminata",
+        "detail": "30 min + estiramientos"
+      },
+      { "day": "Jueves 26", "activity": "Descanso", "detail": "Completo" },
+      {
+        "day": "Viernes 27",
+        "activity": "Caminata",
+        "detail": "20 min + visualización"
+      },
+      {
+        "day": "Sábado 28",
+        "activity": "Descanso",
+        "detail": "Preparar todo para mañana"
+      },
+      {
+        "day": "Domingo 29",
+        "activity": "🏆 MARATÓN BOGOTÁ",
+        "detail": "42K - ¡A POR ELLO! Objetivo 5:15-5:30"
+      }
+    ]
+  }
+]
