@@ -9,9 +9,9 @@ export default function MarathonTracker() {
   const [importMessage, setImportMessage] = useState({ text: "", type: "" });
   const fileInputRef = useRef(null);
 
-  // Load from sessionStorage on mount
+  // Load from localStorage on mount
   useEffect(() => {
-    const saved = sessionStorage.getItem("marathonProgress");
+    const saved = localStorage.getItem("marathonProgress");
     if (saved) {
       try {
         setCompletedWorkouts(JSON.parse(saved));
@@ -21,12 +21,9 @@ export default function MarathonTracker() {
     }
   }, []);
 
-  // Save to sessionStorage whenever completedWorkouts changes
+  // Save to localStorage whenever completedWorkouts changes
   useEffect(() => {
-    sessionStorage.setItem(
-      "marathonProgress",
-      JSON.stringify(completedWorkouts)
-    );
+    localStorage.setItem("marathonProgress", JSON.stringify(completedWorkouts));
   }, [completedWorkouts]);
 
   const phases = [
