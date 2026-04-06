@@ -352,74 +352,44 @@
     ]
   },
   {
-    "week": 11,
-    "dates": "Mar 30-Abr 5",
-    "phase": 1,
-    "workouts": [
-      {
-        "day": "Lunes",
-        "activity": "Descanso",
-        "detail": "Descanso activo o completo"
-      },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
-      {
-        "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Fuerza específica running"
-      },
-      {
-        "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo / intervalos / fartlek"
-      },
-      {
-        "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo o cross-training suave"
-      },
-      {
-        "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "Natación, bici o descanso"
-      },
-      { "day": "Domingo", "activity": "Carrera larga", "detail": "22 km" }
-    ]
-  },
-  {
     "week": 12,
     "dates": "Abr 6-12",
     "phase": 1,
     "workouts": [
       {
         "day": "Lunes",
-        "activity": "Descanso",
-        "detail": "Descanso activo o completo"
+        "activity": "Descanso activo",
+        "detail": "🆕 INICIO PLAN TRIATLÓN INTEGRADO. Movilidad 20 min: cadera, hombros, tobillos"
       },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Primera clase formal. Enfoque 100% en técnica: posición horizontal, patada desde cadera, entrada de mano al frente. Largo del instructor. 45-60 min"
+      },
       {
         "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Fuerza específica running"
+        "activity": "🚴 Bici Rouvy Z2",
+        "detail": "60 min a 170-190w, cadencia 85-90 rpm. Ruta plana. Soltar el cuerpo, no agarrarse del manubrio con tensión"
       },
       {
         "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo / intervalos / fartlek"
+        "activity": "Carrera tempo",
+        "detail": "10 km: 2 km calent Z2 (8:00) + 3x2 km a pace 7:15-7:30 min/km Z3 con 1 km Z2 entre cada uno + 1 km enfr"
       },
       {
         "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo o cross-training suave"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Segunda clase. Ejercicios con tabla: pataleta 4x25m. Práctica de respiración lateral. 45-60 min"
       },
       {
         "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "Natación, bici o descanso"
+        "activity": "Gimnasio fuerza triatlón",
+        "detail": "Circuito triatleta: sentadilla 3x12, press hombro mancuernas 3x12, remo bajo 3x12, plancha lateral 3x30s/lado, hip thrust 3x15. 50 min"
       },
       {
         "day": "Domingo",
         "activity": "Carrera larga",
-        "detail": "18 km (descarga)"
+        "detail": "18 km a pace 7:45-8:15 min/km, Z2. Descarga respecto a semana 11"
       }
     ]
   },
@@ -430,31 +400,39 @@
     "workouts": [
       {
         "day": "Lunes",
-        "activity": "Descanso",
-        "detail": "Descanso activo o completo"
+        "activity": "Descanso activo",
+        "detail": "Rodillo de espuma en cuádriceps e IT band 15 min + estiramientos de cadera 10 min"
       },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Técnica: respiración bilateral cada 3 brazadas, giro de torso en cada brazada. Ejercicios con pull buoy: 4x25m enfocando solo los brazos. 45-60 min"
+      },
       {
         "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Fuerza específica running"
+        "activity": "🚴 Bici Rouvy Z2-Z3",
+        "detail": "60 min: 15 min calent Z2 + 4x5 min a 200-215w Z3 con 5 min Z2 entre series + 10 min enfr. Trabajar potencia media"
       },
       {
         "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo / intervalos / fartlek"
+        "activity": "Intervalos carrera",
+        "detail": "11 km: 2 km calent + 6x(800m a pace 6:15-6:30 + 400m trote Z1) + 2 km enfr"
       },
       {
         "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo o cross-training suave"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Primeras series cortas: 8x25m con 20s descanso. Enfoque en deslizamiento entre brazada y brazada. 45-60 min"
       },
       {
         "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "Natación, bici o descanso"
+        "activity": "🚴 Bici Rouvy larga Z2",
+        "detail": "80 min a 170-190w, cadencia 85-90 rpm. Mantener ritmo constante. Practicar beber sin dejar de pedalear"
       },
-      { "day": "Domingo", "activity": "Carrera larga", "detail": "25 km" }
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "25 km a pace 7:45-8:15 min/km, Z2. Gel en km 14, km 20. Hidratar cada 4 km"
+      }
     ]
   },
   {
@@ -464,34 +442,38 @@
     "workouts": [
       {
         "day": "Lunes",
-        "activity": "Descanso",
-        "detail": "Descanso activo o completo"
+        "activity": "Descanso activo",
+        "detail": "Yoga o estiramientos 25 min. Piernas elevadas 10 min post-25km del domingo"
       },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Primeros 50m continuos sin parar. Luego series: 6x50m con 30s descanso. Medir brazadas por largo (objetivo: máx 22 brazadas en 25m). 45-60 min"
+      },
       {
         "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Fuerza específica running"
+        "activity": "🚴 Bici Rouvy Z2",
+        "detail": "60 min a 175-195w, cadencia 88-92 rpm. Trabajo de cadencia: 5 min a 70 rpm / 5 min a 95 rpm alternando. Fortalece la conexión neuromuscular"
       },
       {
         "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo / intervalos / fartlek"
+        "activity": "Tempo carrera",
+        "detail": "12 km: 2 km calent + 6 km a pace 7:00-7:15 min/km Z3 continuo + 2 km Z2 + 2 km enfr Z1"
       },
       {
         "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo o cross-training suave"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Series de resistencia introductorias: 4x100m con 45s descanso. No importa el tiempo, importa no parar. 45-60 min"
       },
       {
         "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "Natación, bici o descanso"
+        "activity": "Gimnasio fuerza",
+        "detail": "Fuerza resistencia: sentadilla búlgara 3x10/lado, peso muerto rumano 3x10, remo TRX 3x12, press hombro 3x10, core anti-rotación con banda 3x10/lado. 50 min"
       },
       {
         "day": "Domingo",
         "activity": "Carrera larga",
-        "detail": "20 km (descarga)"
+        "detail": "20 km a pace 7:45-8:15 min/km, Z2. Descarga de volumen respecto a semana 13"
       }
     ]
   },
@@ -502,31 +484,39 @@
     "workouts": [
       {
         "day": "Lunes",
-        "activity": "Descanso",
-        "detail": "Descanso activo o completo"
+        "activity": "Descanso activo",
+        "detail": "Movilidad articular completa 20 min. Especial atención a hombros (para natación)"
       },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Meta de la semana: primeros 200m continuos. Si no se logra: 2x100m con 1 min descanso. Técnica de viraje en pared. 45-60 min"
+      },
       {
         "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Fuerza específica running"
+        "activity": "🚴 Bici Rouvy Z2-Z3",
+        "detail": "65 min: 15 min calent + 3x10 min a 200-220w Z3 con 5 min Z2 entre series + 10 min enfr. Incrementar duración de intervalos Z3"
       },
       {
         "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo / intervalos / fartlek"
+        "activity": "Intervalos carrera",
+        "detail": "11 km: 2 km calent + 6x(3 min a pace 6:20-6:35 + 2 min Z1) + 2 km enfr. Enfoque en mantener forma en la fatiga"
       },
       {
         "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo o cross-training suave"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Técnica de viraje, salidas desde pared. Series: 6x50m con 25s descanso. Medir mejora vs semana 13. 45-60 min"
       },
       {
         "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "Natación, bici o descanso"
+        "activity": "🚴 Bici Rouvy larga Z2",
+        "detail": "90 min a 175-195w, cadencia 85-90 rpm. Primera salida de 90 min. Nutrición: gel o barra en min 45. Hidratar cada 20 min"
       },
-      { "day": "Domingo", "activity": "Carrera larga", "detail": "27 km" }
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "27 km a pace 7:45-8:15 min/km, Z2. Gel en km 14, km 20, km 24. Hidratar cada 4 km. Mayor distancia hasta el momento"
+      }
     ]
   },
   {
@@ -536,34 +526,38 @@
     "workouts": [
       {
         "day": "Lunes",
-        "activity": "Descanso",
-        "detail": "Descanso activo o completo"
+        "activity": "Descanso completo",
+        "detail": "SEMANA DESCARGA PRE-12H RUN. Reducir todo volumen. Piernas frescas para el sábado 23"
       },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Sesión suave de técnica sin esfuerzo: 6x50m con foco solo en deslizamiento. Sin series duras. 45 min"
+      },
       {
         "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Fuerza específica running"
+        "activity": "🚴 Bici Rouvy activación",
+        "detail": "40 min a 155-170w, cadencia libre. Z1-Z2. Sin ningún esfuerzo. Solo movilizar piernas"
       },
       {
         "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo / intervalos / fartlek"
+        "activity": "Carrera fácil",
+        "detail": "7 km a pace 8:00-8:30 min/km, Z1-Z2. Muy conversacional. No forzar nada"
       },
       {
         "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo o cross-training suave"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Sesión de juego: 10x25m técnica variada. Sin fatiga. Salir fresco. 45 min"
       },
       {
         "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "Natación, bici o descanso"
+        "activity": "Descanso o caminata",
+        "detail": "Descanso completo o caminata 20 min. Preparar equipo para el 12H Run del 23: zapatillas, ropa, nutrición"
       },
       {
         "day": "Domingo",
-        "activity": "Carrera larga",
-        "detail": "22 km (descarga)"
+        "activity": "Carrera larga suave",
+        "detail": "18 km a pace 8:00-8:15 min/km, Z2 suave. Descarga programada de cara al evento"
       }
     ]
   },
@@ -574,31 +568,39 @@
     "workouts": [
       {
         "day": "Lunes",
-        "activity": "Descanso",
-        "detail": "Descanso activo o completo"
+        "activity": "Descanso activo",
+        "detail": "Rodillo + estiramientos 20 min. 10 días para el 12H Run"
       },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Series 400m acumulados: 2x200m con 1 min descanso. Ritmo aeróbico constante. 45-60 min"
+      },
       {
         "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Fuerza específica running"
+        "activity": "🚴 Bici Rouvy Z2",
+        "detail": "50 min a 170-185w, cadencia 85-90 rpm. Sesión moderada. No acumular fatiga extra esta semana"
       },
       {
         "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo / intervalos / fartlek"
+        "activity": "Carrera activación con ritmo",
+        "detail": "8 km: 2 km calent + 3 km a pace maratón objetivo 7:20-7:30 + 3 km Z2. Sentir el ritmo sin destruir las piernas"
       },
       {
         "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo o cross-training suave"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Series de 100m: 4x100m con 45s descanso. Medir tiempo. Referencia de progreso. 45-60 min"
       },
       {
         "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "Natación, bici o descanso"
+        "activity": "Descanso completo",
+        "detail": "DESCANSO TOTAL. 5 días para el 12H Run. Comer bien, hidratarse. Preparar estrategia de turnos con el equipo"
       },
-      { "day": "Domingo", "activity": "Carrera larga", "detail": "29 km" }
+      {
+        "day": "Domingo",
+        "activity": "Rodaje corto activación",
+        "detail": "10 km a pace 8:00-8:15 min/km, Z2 muy suave. Último rodaje antes del evento"
+      }
     ]
   },
   {
@@ -608,34 +610,38 @@
     "workouts": [
       {
         "day": "Lunes",
-        "activity": "Descanso",
-        "detail": "Descanso activo o completo"
+        "activity": "Descanso activo",
+        "detail": "Movilidad suave 15 min. 3 días para el 12H Run. Carbohidratos extra hoy y mañana"
       },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Martes",
+        "activity": "Descanso",
+        "detail": "Descanso completo. Hidratar extra (3 litros). Preparar maletín para el 12H Run: zapatillas de recambio, medias secas, geles, barras, cambio de ropa"
+      },
       {
         "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Fuerza específica running"
+        "activity": "Activación muy suave",
+        "detail": "15 min caminata o 3 km muy suave Z1. Solo soltar el cuerpo. Cenar pasta o arroz abundante"
       },
       {
         "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo / intervalos / fartlek"
+        "activity": "Descanso",
+        "detail": "Descanso completo. CONCIERTO hoy. Disfrutar sin forzar piernas"
       },
       {
         "day": "Viernes",
         "activity": "Descanso",
-        "detail": "Descanso completo o cross-training suave"
+        "detail": "Descanso completo. Día antes del 12H. Dormir temprano, cena de carbohidratos al mediodía"
       },
       {
         "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "Natación, bici o descanso"
+        "activity": "🏃🏃🏃🏃 12H RUN TOCANCIPÁ",
+        "detail": "Relevos x4, pista 2km. Estrategia: turnos de ~3km, descansar entre turnos. Estimado tuyo: 8-10 turnos = 24-30km totales. Ritmo de turnos: pace 6:00-6:30 (puedes ir más rápido al estar fresco). Entre turnos: estirar, comer, hidratarse, abrigarse si hay frío nocturno. ¡Disfrutar!"
       },
       {
         "day": "Domingo",
-        "activity": "Carrera larga",
-        "detail": "24 km (descarga)"
+        "activity": "Descanso total",
+        "detail": "Recuperación post-12H. Descanso completo. Piernas elevadas, antiinflamatorio si hay dolor. Proteína y carbohidratos"
       }
     ]
   },
@@ -647,33 +653,37 @@
       {
         "day": "Lunes",
         "activity": "Descanso",
-        "detail": "Descanso activo o completo"
+        "detail": "Recuperación post-12H Run. Solo caminata suave si apetece. Sin entrenar"
       },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Recuperación activa en piscina. 30-40 min muy suave sin series. Excelente para recuperar sin impacto"
+      },
       {
         "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Fuerza específica running"
+        "activity": "🚴 Bici Rouvy suave",
+        "detail": "40 min a 150-165w, Z1. Pedal suave sin esfuerzo. Recuperación activa"
       },
       {
         "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo / intervalos / fartlek"
+        "activity": "Carrera fácil",
+        "detail": "6 km a pace 8:15-8:30 min/km, Z1. Solo si no hay molestias musculares post-12H"
       },
       {
         "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo o cross-training suave"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Series técnicas: 4x100m con descanso generoso 1 min. Sin presión. 45 min"
       },
       {
         "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "Natación, bici o descanso"
+        "activity": "🚴 Bici Rouvy Z2",
+        "detail": "60 min a 170-185w, cadencia 85-90 rpm. Retorno a sesión normal de bici"
       },
       {
         "day": "Domingo",
         "activity": "Carrera larga",
-        "detail": "32 km (pico)"
+        "detail": "20 km a pace 7:45-8:15 min/km, Z2. Primer largo post-12H. Sin presión, escuchar el cuerpo"
       }
     ]
   },
@@ -684,34 +694,38 @@
     "workouts": [
       {
         "day": "Lunes",
-        "activity": "Descanso",
-        "detail": "Descanso activo o completo"
+        "activity": "Descanso activo",
+        "detail": "Rodillo de espuma full body 20 min. Recuperación completa de la temporada de eventos"
       },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Meta de semana: 500m continuos sin parar. Si no: 2x250m con 90s descanso. 45-60 min"
+      },
       {
         "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Fuerza específica running"
+        "activity": "🚴 Bici Rouvy Z2-Z3",
+        "detail": "65 min: 15 min calent + 3x10 min a 205-220w Z3 con 5 min Z2 entre series + 10 min enfr"
       },
       {
         "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo / intervalos / fartlek"
+        "activity": "Intervalos carrera",
+        "detail": "12 km: 2 km calent + 5x(1 km a pace 6:15-6:30 + 90s trote Z1) + 3 km enfr Z2"
       },
       {
         "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo o cross-training suave"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Series 4x150m con 45s descanso. Mantener técnica bajo fatiga moderada. 45-60 min"
       },
       {
         "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "Natación, bici o descanso"
+        "activity": "🚴 PRIMER LADRILLO Bici+Carrera",
+        "detail": "🔥 Ladrillo 1: 60 min bici Rouvy a 175-195w Z2 → sin parar, calzarte zapatillas de correr → 15 min carrera Z2 a pace 8:00-8:30. Las piernas se sienten raras: es normal y es el objetivo del ejercicio"
       },
       {
         "day": "Domingo",
         "activity": "Carrera larga",
-        "detail": "20 km (descarga)"
+        "detail": "24 km a pace 7:45-8:15 min/km, Z2. Gel en km 14 y km 20"
       }
     ]
   },
@@ -722,31 +736,39 @@
     "workouts": [
       {
         "day": "Lunes",
-        "activity": "Descanso",
-        "detail": "Descanso activo o completo"
+        "activity": "Descanso activo",
+        "detail": "Estiramientos y movilidad 20 min. Último cierre de Fase 2"
       },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8-10 km" },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Meta: 750m continuos. Si no: 3x250m con 1 min descanso. Ritmo aeróbico, no ansiedad por el tiempo. 45-60 min"
+      },
       {
         "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Fuerza específica running"
+        "activity": "🚴 Bici Rouvy Z2",
+        "detail": "60 min a 175-195w, cadencia 88-92 rpm. Última bici de Fase 2. Consolidar técnica de pedaleo"
       },
       {
         "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo / intervalos / fartlek"
+        "activity": "Tempo carrera",
+        "detail": "14 km: 2 km calent + 8 km a pace 7:00-7:15 min/km Z3 continuo + 2 km Z2 + 2 km enfr. Último tempo fuerte de Fase 2"
       },
       {
         "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo o cross-training suave"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Series de velocidad: 8x50m a ritmo alto con 30s descanso. Trabajar potencia de brazada. 45-60 min"
       },
       {
         "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "Natación, bici o descanso"
+        "activity": "🚴 LADRILLO 2 Bici+Carrera",
+        "detail": "Ladrillo 2: 90 min bici Rouvy a 175-195w Z2 → inmediato 20 min carrera Z2 a pace 8:00-8:15. Las piernas ya se adaptan mejor que el ladrillo 1"
       },
-      { "day": "Domingo", "activity": "Carrera larga", "detail": "26 km" }
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "26 km a pace 7:45-8:15 min/km, Z2. Gel en km 14, km 20, km 24. Cierre de Fase 2"
+      }
     ]
   },
   {
@@ -754,36 +776,40 @@
     "dates": "Jun 15-21",
     "phase": 2,
     "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      {
+        "day": "Lunes",
+        "activity": "Descanso completo",
+        "detail": "🎯 INICIO FASE 3. Recuperación. El plan ahora es 50% triatlón / 50% maratón. Los miércoles alternan bici Z2 y ladrillo"
+      },
       {
         "day": "Martes",
-        "activity": "Carrera Zona 2",
-        "detail": "10 km suaves"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Series 5x200m con 1 min descanso. Ritmo aeróbico constante. Registrar tiempo de cada 200m. 60 min"
       },
       {
         "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Fuerza específica running"
+        "activity": "🚴 Bici Rouvy Z2-Z3",
+        "detail": "70 min: 15 min calent + 4x8 min a 205-225w Z3 con 5 min Z2 entre series + 10 min enfr"
       },
       {
         "day": "Jueves",
         "activity": "Carrera calidad",
-        "detail": "Tempo 12 km total"
+        "detail": "12 km: 2 km calent + 4 km Z3 pace 7:00-7:15 + 2 km Z2 + 4 km pace maratón 7:20-7:30 + 2 km enfr"
       },
       {
         "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Técnica de agua abierta: sighting (levantar la cabeza cada 6 brazadas para orientarse). Series 6x100m con 40s descanso. 60 min"
       },
       {
         "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "Sesión aeróbica 60 min"
+        "activity": "🚴 Bici Rouvy larga Z2",
+        "detail": "2 horas a 175-195w, cadencia 85-90 rpm. Primera salida de 2 horas. Nutrición: gel o barra cada 45 min. Hidratar cada 20 min"
       },
       {
         "day": "Domingo",
         "activity": "Carrera larga",
-        "detail": "26 km Zona 2"
+        "detail": "26 km a pace 7:45-8:15 min/km, Z2. Gel en km 14, km 20, km 24"
       }
     ]
   },
@@ -792,36 +818,40 @@
     "dates": "Jun 22-28",
     "phase": 2,
     "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      {
+        "day": "Lunes",
+        "activity": "Descanso activo",
+        "detail": "Rodillo + estiramientos de cadera y hombros 20 min"
+      },
       {
         "day": "Martes",
-        "activity": "Carrera Zona 2",
-        "detail": "8 km suaves"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Gran meta: 1000m continuos. Si no: 2x500m con 2 min descanso. Ritmo sostenible, sin ansiedad. 60 min"
       },
       {
         "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Movilidad y core"
+        "activity": "🚴 LADRILLO 3 Bici+Carrera",
+        "detail": "Ladrillo 3: 90 min bici Rouvy a 180-200w Z2 → inmediato 25 min carrera Z2 pace 8:00-8:15. Practicar la transición T2: cambiar zapatos rápido"
       },
       {
         "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Fartlek 10 km"
+        "activity": "Fartlek carrera",
+        "detail": "12 km: 2 km calent + 7x(2 min a pace 6:15-6:30 + 3 min Z2) + 2 km enfr"
       },
       {
         "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Técnica de salida en masa: nadar con brazos rozando a otro nadador. Practica sighting cada 4 brazadas. 60 min"
       },
       {
         "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "45-60 min Zona 2"
+        "activity": "Gimnasio fuerza",
+        "detail": "Fuerza triatleta: sentadilla 3x12, hip thrust 3x15, remo TRX 3x12, press hombro 3x10, plancha 3x1 min, rotación de core con banda 3x12/lado. 50 min"
       },
       {
         "day": "Domingo",
         "activity": "Carrera larga",
-        "detail": "20 km (descarga)"
+        "detail": "20 km a pace 7:45-8:15 min/km, Z2. Semana de descarga en carrera larga"
       }
     ]
   },
@@ -830,32 +860,40 @@
     "dates": "Jun 29-Jul 5",
     "phase": 2,
     "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "10 km" },
+      {
+        "day": "Lunes",
+        "activity": "Descanso activo",
+        "detail": "Movilidad de hombros y caderas 20 min. Priorizar sueño esta semana"
+      },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Resistencia: 3x400m con 90s descanso. Medir tiempo total de cada 400m. Primera referencia real de velocidad. 60 min"
+      },
       {
         "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Fuerza running"
+        "activity": "🚴 Bici Rouvy Z2-Z3",
+        "detail": "70 min: 15 min calent + 3x12 min a 210-225w Z3 con 5 min Z2 entre series + 10 min enfr. Incrementar duración de bloques Z3"
       },
       {
         "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo progresivo 12 km"
+        "activity": "Tempo progresivo carrera",
+        "detail": "12 km: 3 km Z2 (8:00) + 3 km Z2-Z3 (7:30) + 4 km Z3 (7:00-7:15) + 2 km enfr Z1"
       },
       {
         "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Series de velocidad: 10x100m con 35s descanso. Mantener ritmo constante en todos los 100m. 60 min"
       },
       {
         "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "60 min"
+        "activity": "🚴 Bici Rouvy larga Z2",
+        "detail": "2h15min a 175-200w, cadencia 85-90 rpm. Simular los 40km del 5150. Nutrición cada 45 min. Ruta plana en Rouvy"
       },
       {
         "day": "Domingo",
         "activity": "Carrera larga",
-        "detail": "28 km Zona 2"
+        "detail": "28 km a pace 7:45-8:15 min/km, Z2. Gel en km 14, km 20, km 25. Penúltimo largo de carga grande antes del 5150"
       }
     ]
   },
@@ -864,36 +902,40 @@
     "dates": "Jul 6-12",
     "phase": 2,
     "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      {
+        "day": "Lunes",
+        "activity": "Descanso completo",
+        "detail": "SEMANA DESCARGA. Recuperación activa. No subestimar esta semana"
+      },
       {
         "day": "Martes",
-        "activity": "Carrera Zona 2",
-        "detail": "8 km suaves"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Sesión técnica suave: 6x150m con descanso generoso 1 min. Foco en deslizamiento, no en velocidad. 45 min"
       },
       {
         "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Movilidad + core"
+        "activity": "🚴 Bici Rouvy suave",
+        "detail": "50 min a 155-170w, Z1-Z2. Cadencia libre. Piernas frescas para semana siguiente"
       },
       {
         "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Intervalos 10 km total"
+        "activity": "Carrera fácil",
+        "detail": "8 km a pace 8:00-8:30 min/km, Z1-Z2. Conversacional. Sin esfuerzo"
       },
       {
         "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Técnica de descanso activo: 4x200m muy suave. Foco en deslizamiento. 45 min"
       },
       {
         "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "45 min"
+        "activity": "🚴 Bici Rouvy corta Z2",
+        "detail": "55 min a 165-180w, cadencia 85 rpm. Mantener el ritmo sin acumular fatiga"
       },
       {
         "day": "Domingo",
         "activity": "Carrera larga",
-        "detail": "22 km (descarga)"
+        "detail": "22 km a pace 7:45-8:15 min/km, Z2. Descarga de volumen programada"
       }
     ]
   },
@@ -902,32 +944,40 @@
     "dates": "Jul 13-19",
     "phase": 2,
     "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "10 km" },
+      {
+        "day": "Lunes",
+        "activity": "Descanso activo",
+        "detail": "Movilidad y estiramientos 20 min. Semana de máxima carga del plan"
+      },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Simulacro distancia 5150: 1500m continuos sin parar con traje de competencia si es posible. Medir tiempo total. 60 min"
+      },
       {
         "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Fuerza específica running"
+        "activity": "🚴 Bici Rouvy Z3 fuerte",
+        "detail": "75 min: 15 min calent + 5x8 min a 215-230w Z3-Z4 con 4 min Z2 entre series + 10 min enfr. Sesión más dura de bici del plan"
       },
       {
         "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo sostenido 14 km"
+        "activity": "Tempo sostenido carrera",
+        "detail": "14 km: 2 km calent + 10 km a pace 7:00-7:15 min/km Z3 continuo + 2 km enfr Z1. Sesión fuerte clave del plan"
       },
       {
         "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Series de ritmo de competencia: 6x200m a ritmo 5150 con 45s descanso. 60 min"
       },
       {
         "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "60 min"
+        "activity": "🚴 LADRILLO PEAK 4",
+        "detail": "🔥 Ladrillo 4 (peak): 2h bici Rouvy a 180-200w Z2-Z3 → inmediato 35 min carrera Z2 pace 8:00-8:15. Simular casi completo el segmento bici+carrera del 5150"
       },
       {
         "day": "Domingo",
         "activity": "Carrera larga",
-        "detail": "30 km Zona 2"
+        "detail": "30 km a pace 7:45-8:15 min/km, Z2. Gel en km 14, km 20, km 25, km 28. Penúltimo largo antes del taper 5150"
       }
     ]
   },
@@ -936,643 +986,726 @@
     "dates": "Jul 20-26",
     "phase": 2,
     "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      {
+        "day": "Lunes",
+        "activity": "Descanso completo",
+        "detail": "Recuperación total post-semana pico. Masaje deportivo si es posible. Piernas elevadas"
+      },
       {
         "day": "Martes",
-        "activity": "Carrera Zona 2",
-        "detail": "8 km suaves"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Sesión suave: 4x300m con 1 min descanso. Consolidar forma sin buscar esfuerzo. 45-60 min"
       },
       {
         "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Movilidad y core"
+        "activity": "🚴 Bici Rouvy Z2",
+        "detail": "60 min a 170-185w, cadencia 85-90 rpm. Recuperación activa en bici. Sin series duras"
       },
       {
         "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Fartlek 10 km"
+        "activity": "Fartlek suave carrera",
+        "detail": "10 km: 2 km calent + 6x(1 min Z3 pace 6:45 + 3 min Z2) + 2 km enfr. Mantener velocidad sin destruir piernas"
       },
       {
         "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Técnica de agua abierta: sighting cada 6 brazadas, nadar en línea recta sin pared como referencia. 45-60 min"
       },
       {
         "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "45-60 min"
+        "activity": "🚴 Bici Rouvy moderada Z2",
+        "detail": "80 min a 175-190w, cadencia 85-90 rpm. Mantener forma sin acumular fatiga"
       },
       {
         "day": "Domingo",
         "activity": "Carrera larga",
-        "detail": "22 km (descarga)"
+        "detail": "22 km a pace 7:45-8:15 min/km, Z2. Descarga post-semana pico"
       }
     ]
   },
   {
     "week": 28,
-    "dates": "Jul 27-Aug 2",
-    "phase": 2,
-    "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "10 km" },
-      {
-        "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Fuerza running"
-      },
-      {
-        "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo largo 14 km"
-      },
-      {
-        "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
-      },
-      {
-        "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "60 min"
-      },
-      {
-        "day": "Domingo",
-        "activity": "Carrera larga",
-        "detail": "32 km Zona 2"
-      }
-    ]
-  },
-  {
-    "week": 29,
-    "dates": "Aug 3-9",
-    "phase": 2,
-    "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
-      {
-        "day": "Martes",
-        "activity": "Carrera Zona 2",
-        "detail": "8 km suaves"
-      },
-      { "day": "Miércoles", "activity": "Gimnasio", "detail": "Fuerza ligera" },
-      {
-        "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Intervalos 10 km"
-      },
-      {
-        "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
-      },
-      {
-        "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "45 min"
-      },
-      {
-        "day": "Domingo",
-        "activity": "Carrera larga",
-        "detail": "24 km (descarga)"
-      }
-    ]
-  },
-  {
-    "week": 30,
-    "dates": "Aug 10-16",
-    "phase": 2,
-    "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "10 km" },
-      {
-        "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Fuerza running"
-      },
-      {
-        "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo a pace maratón 12 km"
-      },
-      {
-        "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
-      },
-      {
-        "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "60 min"
-      },
-      {
-        "day": "Domingo",
-        "activity": "Carrera larga",
-        "detail": "25 km a pace maratón"
-      }
-    ]
-  },
-
-  {
-    "week": 31,
-    "dates": "Aug 17-23",
-    "phase": 2,
-    "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "10 km" },
-      { "day": "Miércoles", "activity": "Gimnasio", "detail": "Fuerza ligera" },
-      {
-        "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "2h continuas a pace maratón"
-      },
-      {
-        "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
-      },
-      {
-        "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "45 min"
-      },
-      {
-        "day": "Domingo",
-        "activity": "Carrera larga",
-        "detail": "28 km Zona 2"
-      }
-    ]
-  },
-  {
-    "week": 32,
-    "dates": "Aug 24-30",
-    "phase": 2,
-    "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8 km" },
-      {
-        "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Movilidad y core"
-      },
-      {
-        "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo controlado 10 km"
-      },
-      {
-        "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
-      },
-      {
-        "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "45 min"
-      },
-      {
-        "day": "Domingo",
-        "activity": "Carrera larga",
-        "detail": "22 km (descarga)"
-      }
-    ]
-  },
-  {
-    "week": 33,
-    "dates": "Aug 31-Sep 6",
-    "phase": 2,
-    "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "10 km" },
-      {
-        "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Fuerza running"
-      },
-      {
-        "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo + últimos km a pace maratón"
-      },
-      {
-        "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
-      },
-      {
-        "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "60 min"
-      },
-      {
-        "day": "Domingo",
-        "activity": "Carrera larga",
-        "detail": "30 km, últimos 8 km pace maratón"
-      }
-    ]
-  },
-  {
-    "week": 34,
-    "dates": "Sep 7-13",
-    "phase": 2,
-    "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8 km" },
-      { "day": "Miércoles", "activity": "Gimnasio", "detail": "Movilidad" },
-      {
-        "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo suave 10 km"
-      },
-      {
-        "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
-      },
-      {
-        "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "45 min"
-      },
-      {
-        "day": "Domingo",
-        "activity": "Carrera larga",
-        "detail": "24 km (descarga)"
-      }
-    ]
-  },
-  {
-    "week": 35,
-    "dates": "Sep 14-20",
-    "phase": 2,
-    "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "10 km" },
-      {
-        "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Fuerza running"
-      },
-      {
-        "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Intervalos largos 12 km"
-      },
-      {
-        "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
-      },
-      {
-        "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "60 min"
-      },
-      {
-        "day": "Domingo",
-        "activity": "Carrera larga",
-        "detail": "32 km Zona 2"
-      }
-    ]
-  },
-  {
-    "week": 36,
-    "dates": "Sep 21-27",
-    "phase": 2,
-    "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8 km" },
-      {
-        "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Movilidad y core"
-      },
-      {
-        "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo controlado 10 km"
-      },
-      {
-        "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
-      },
-      {
-        "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "45 min"
-      },
-      { "day": "Domingo", "activity": "Carrera larga", "detail": "26 km" }
-    ]
-  },
-  {
-    "week": 37,
-    "dates": "Sep 28-Oct 4",
-    "phase": 2,
-    "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "10 km" },
-      { "day": "Miércoles", "activity": "Gimnasio", "detail": "Fuerza ligera" },
-      {
-        "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo + strides 10 km"
-      },
-      {
-        "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
-      },
-      {
-        "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "45 min"
-      },
-      { "day": "Domingo", "activity": "Carrera larga", "detail": "30 km" }
-    ]
-  },
-  {
-    "week": 38,
-    "dates": "Oct 5-11",
-    "phase": 2,
-    "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8 km" },
-      { "day": "Miércoles", "activity": "Gimnasio", "detail": "Movilidad" },
-      {
-        "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo suave 10 km"
-      },
-      {
-        "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
-      },
-      {
-        "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "45 min"
-      },
-      { "day": "Domingo", "activity": "Carrera larga", "detail": "28 km" }
-    ]
-  },
-  {
-    "week": 39,
-    "dates": "Oct 12-18",
-    "phase": 2,
-    "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "10 km" },
-      { "day": "Miércoles", "activity": "Gimnasio", "detail": "Fuerza ligera" },
-      {
-        "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo progresivo 12 km"
-      },
-      {
-        "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
-      },
-      {
-        "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "45 min"
-      },
-      {
-        "day": "Domingo",
-        "activity": "Carrera larga",
-        "detail": "32 km, últimos 10 km a pace maratón"
-      }
-    ]
-  },
-  {
-    "week": 40,
-    "dates": "Oct 19-25",
-    "phase": 2,
-    "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8 km" },
-      { "day": "Miércoles", "activity": "Gimnasio", "detail": "Movilidad" },
-      {
-        "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo suave 8 km"
-      },
-      {
-        "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
-      },
-      {
-        "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "40 min"
-      },
-      {
-        "day": "Domingo",
-        "activity": "Carrera larga",
-        "detail": "20 km (descarga)"
-      }
-    ]
-  },
-  {
-    "week": 41,
-    "dates": "Oct 26-Nov 1",
-    "phase": 2,
-    "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8 km" },
-      { "day": "Miércoles", "activity": "Gimnasio", "detail": "Movilidad" },
-      {
-        "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Activación suave 6 km"
-      },
-      {
-        "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
-      },
-      {
-        "day": "Sábado",
-        "activity": "Descanso",
-        "detail": "Preparación carrera"
-      },
-      {
-        "day": "Domingo",
-        "activity": "Media maratón",
-        "detail": "21 km a pace maratón o ligeramente más rápido"
-      }
-    ]
-  },
-  {
-    "week": 42,
-    "dates": "Nov 2-8",
-    "phase": 2,
-    "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "8 km" },
-      { "day": "Miércoles", "activity": "Gimnasio", "detail": "Movilidad" },
-      {
-        "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo suave 8 km"
-      },
-      {
-        "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
-      },
-      {
-        "day": "Sábado",
-        "activity": "Natación / Bicicleta",
-        "detail": "40 min"
-      },
-      { "day": "Domingo", "activity": "Carrera larga", "detail": "24 km" }
-    ]
-  },
-  {
-    "week": 43,
-    "dates": "Nov 9-15",
-    "phase": 2,
-    "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
-      { "day": "Martes", "activity": "Carrera Zona 2", "detail": "6 km" },
-      {
-        "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Movilidad y core ligero"
-      },
-      {
-        "day": "Jueves",
-        "activity": "Carrera calidad",
-        "detail": "Tempo suave 6 km"
-      },
-      {
-        "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
-      },
-      {
-        "day": "Sábado",
-        "activity": "Natación / Caminata",
-        "detail": "30-40 min"
-      },
-      { "day": "Domingo", "activity": "Carrera larga", "detail": "18 km" }
-    ]
-  },
-  {
-    "week": 44,
-    "dates": "Nov 16-22",
+    "dates": "Jul 27-Ago 2",
     "phase": 2,
     "workouts": [
       {
         "day": "Lunes",
         "activity": "Descanso activo",
-        "detail": "Estiramientos suaves 15 min"
+        "detail": "Estiramientos y movilidad 20 min. 5 semanas para el 5150"
       },
       {
         "day": "Martes",
-        "activity": "Carrera Zona 2",
-        "detail": "6 km, pace cómodo"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Series de ritmo: 8x100m a ritmo de competencia 5150 con 30s descanso. Familiarizarse con el esfuerzo sostenido. 60 min"
       },
       {
         "day": "Miércoles",
-        "activity": "Gimnasio",
-        "detail": "Movilidad y core ligero 20 min"
+        "activity": "🚴 LADRILLO 5 Bici+Carrera",
+        "detail": "Ladrillo 5: 90 min bici Rouvy a 180-200w Z2-Z3 → inmediato 30 min carrera Z2 pace 7:50-8:10. Practicar transición rápida"
       },
       {
         "day": "Jueves",
-        "activity": "Carrera",
-        "detail": "5 km + 4x100 m strides"
+        "activity": "Intervalos carrera",
+        "detail": "12 km: 2 km calent + 5x(1 km a pace 6:15-6:25 + 90s trote Z1) + 3 km enfr Z2"
       },
       {
         "day": "Viernes",
-        "activity": "Descanso",
-        "detail": "Descanso completo"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Segundo simulacro 1500m continuos. ¿Mejora de tiempo vs semana 26? Registrar. 60 min"
       },
       {
         "day": "Sábado",
-        "activity": "Natación / Caminata",
-        "detail": "30 min suave"
+        "activity": "🚴 Bici Rouvy larga Z2",
+        "detail": "2h a 175-195w, cadencia 85-90 rpm. Simular 40km de Cartagena. Ruta plana en Rouvy"
       },
       {
         "day": "Domingo",
         "activity": "Carrera larga",
-        "detail": "14 km Zona 2"
+        "detail": "26 km a pace 7:45-8:15 min/km, Z2. Gel en km 14, km 20, km 24"
       }
     ]
   },
   {
-    "week": 45,
-    "dates": "Nov 23-29",
+    "week": 29,
+    "dates": "Ago 3-9",
     "phase": 2,
     "workouts": [
-      { "day": "Lunes", "activity": "Descanso", "detail": "Descanso completo" },
+      {
+        "day": "Lunes",
+        "activity": "Descanso activo",
+        "detail": "Rodillo + estiramientos 20 min. 4 semanas para el 5150. Empezar mentalización del evento"
+      },
       {
         "day": "Martes",
-        "activity": "Carrera muy suave",
-        "detail": "4 km + 3x80 m strides"
+        "activity": "🏊 Natación (clase)",
+        "detail": "Técnica final: pull buoy + paletas 4x200m. Sentir la potencia completa de la brazada. 60 min"
       },
       {
         "day": "Miércoles",
-        "activity": "Caminata",
-        "detail": "30 min + estiramientos suaves"
+        "activity": "🚴 Bici Rouvy Z2-Z3",
+        "detail": "70 min: 15 min calent + 4x10 min a 205-220w Z3 con 5 min Z2 entre series + 10 min enfr. Última sesión dura de bici antes del taper"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Tempo carrera",
+        "detail": "14 km: 2 km calent + 8 km a pace 7:00-7:15 min/km Z3 + 2 km enfr. Última sesión fuerte de carrera antes del taper 5150"
+      },
+      {
+        "day": "Viernes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Series de distancia: 2x600m con 2 min descanso. Ritmo constante. 60 min"
+      },
+      {
+        "day": "Sábado",
+        "activity": "🚴 Bici Rouvy larga Z2",
+        "detail": "1h50min a 175-195w, cadencia 85-90 rpm. Últimas bici larga antes del taper. Nutrición cada 45 min"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "28 km a pace 7:45-8:15 min/km, Z2. Último largo antes del taper 5150. Gel en km 14, km 20, km 25"
+      }
+    ]
+  },
+  {
+    "week": 30,
+    "dates": "Ago 10-16",
+    "phase": 2,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso completo",
+        "detail": "🏁 INICIO TAPER 5150 — 3 semanas para el evento. Reducir volumen 30%. Mantener 2 sesiones de intensidad"
+      },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Sesión técnica controlada: 6x150m con 50s descanso. Mantener ritmo sin fatiga. 45 min"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "🚴 Bici Rouvy Z2-Z3",
+        "detail": "55 min: 15 min calent + 3x8 min a 205-220w Z3 con 5 min Z2 + 10 min enfr. Reducir duración pero mantener intensidad"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera con ritmo 5150",
+        "detail": "10 km: 2 km calent + 6 km a pace 6:00-6:15 min/km (ritmo de 10km de competencia) + 2 km enfr. Familiarizarse con el ritmo objetivo del 5150"
+      },
+      {
+        "day": "Viernes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Simulacro técnico de transición T1: nadar 400m → salir del agua → simular ponerse casco y subir a bici (con ropa). 45 min"
+      },
+      {
+        "day": "Sábado",
+        "activity": "🚴 LADRILLO 6 corto",
+        "detail": "Ladrillo 6 (taper): 60 min bici Rouvy a 175-195w Z2 → inmediato 20 min carrera Z2 pace 7:50-8:10. Mantener las sensaciones sin acumular fatiga"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "20 km a pace 7:45-8:15 min/km, Z2. Último largo antes del evento"
+      }
+    ]
+  },
+  {
+    "week": 31,
+    "dates": "Ago 17-23",
+    "phase": 2,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso activo",
+        "detail": "TAPER semana 2. Reducir volumen 50% del pico. Mantener intensidad en las sesiones clave"
+      },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Series cortas y rápidas: 10x50m a ritmo competencia 5150 con 30s descanso. Sentir la velocidad. 45 min"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "🚴 Bici Rouvy activación",
+        "detail": "45 min: 15 min calent + 4x3 min a 210-225w Z3 con 4 min Z2 + 10 min enfr. Solo activar, no agotar"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera ritmo objetivo",
+        "detail": "8 km: 2 km calent + 4 km a pace 6:00-6:10 min/km (ritmo 10km del 5150) + 2 km enfr. Sentir fresco y rápido"
+      },
+      {
+        "day": "Viernes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Tercer y último simulacro 1500m continuos a ritmo de carrera. Medir tiempo final. 45 min"
+      },
+      {
+        "day": "Sábado",
+        "activity": "🚴 Bici Rouvy corta",
+        "detail": "35 min a 165-180w, Z2. Solo activar las piernas. Sin esfuerzo"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera fácil",
+        "detail": "12 km a pace 8:00-8:15 min/km, Z2 suave. Penúltimo rodaje antes del 5150"
+      }
+    ]
+  },
+  {
+    "week": 32,
+    "dates": "Ago 24-Sep 5",
+    "phase": 2,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso",
+        "detail": "TAPER semana 3 — Semana del viaje a Cartagena. Cuerpo fresco, mente afilada"
+      },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Activación suave: 6x100m a ritmo aeróbico con 40s descanso. Sin fatiga. 30-35 min"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "Carrera muy suave",
+        "detail": "5 km a pace 8:30+ min/km, Z1. Solo mover las piernas. Sin esfuerzo"
       },
       {
         "day": "Jueves",
         "activity": "Descanso",
-        "detail": "Descanso completo"
+        "detail": "Descanso completo. Preparar maletín del 5150: traje de natación, gorra, googles, casco, zapatillas ciclismo, zapatillas running, geles, electrolitos, cambio de ropa"
       },
       {
         "day": "Viernes",
-        "activity": "Caminata",
-        "detail": "20 min + visualización mental"
+        "activity": "Activación natación",
+        "detail": "15-20 min muy suave en el mar si es posible (Cartagena). Acostumbrarse al agua salada y a las olas. Sin series"
       },
       {
         "day": "Sábado",
-        "activity": "Descanso",
-        "detail": "Preparar carrera, hidratación y nutrición"
-      },
-      {
-        "day": "Domingo",
-        "activity": "MARATÓN",
-        "detail": "42.2 km — carrera objetivo"
+        "activity": "Viaje y reconocimiento",
+        "detail": "Check-in evento. Reconocimiento de zona de transición T1 y T2. Recorrido corto de bici 15 min para revisar la bici. Cena de carbohidratos al mediodía. Dormir 9pm. ¡Mañana es el día!"
       }
     ]
   },
   {
-    "week": 46,
-    "dates": "Nov 23-29",
+    "week": "CARRERA",
+    "dates": "Sep 6",
     "phase": 2,
     "workouts": [
-      { "day": "Lunes 23", "activity": "Descanso", "detail": "Completo" },
       {
-        "day": "Martes 24",
+        "day": "Domingo 6",
+        "activity": "🏊🚴🏃 5150 CARTAGENA",
+        "detail": "1.5km natación Bahía Las Ánimas → T1 → 40km bici Vía del Mar (cadencia 85-90rpm, RPE 6-7/10) → T2 → 10km carrera Ciudad Amurallada pace 6:00-6:20 (RPE 7-8/10). Estrategia: salir conservador en natación, ritmo sostenido en bici, atacar en los últimos 3km de carrera. NO ir a tope: el maratón es el 29 de noviembre 🎯"
+      }
+    ]
+  },
+  {
+    "week": 33,
+    "dates": "Sep 7-13",
+    "phase": 2,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso completo",
+        "detail": "🏅 POST 5150 — Recuperación total. Come bien, hidrata 3L, duerme. Celebra el logro"
+      },
+      {
+        "day": "Martes",
+        "activity": "Descanso o caminata",
+        "detail": "Máximo 30 min caminata suave. Sin correr. Evalúa molestias musculares. Sin natación esta semana"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "🏊 Natación suave",
+        "detail": "40 min muy suave en piscina. Recuperación activa sin impacto. Solo técnica, sin series"
+      },
+      {
+        "day": "Jueves",
+        "activity": "🚴 Bici Rouvy recuperación",
+        "detail": "35 min a 140-155w, Z1. Pedal muy suave. Solo circulación. Sin esfuerzo"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso completo",
+        "detail": "Sin entrenar. Recuperación total post-5150. Dormir 8h mínimo"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Carrera muy suave",
+        "detail": "5 km a pace 8:30-9:00 min/km, Z1. Solo si no hay molestias. Si hay dolor muscular, reemplazar por caminata 30 min"
+      },
+      {
+        "day": "Domingo",
         "activity": "Carrera suave",
-        "detail": "4 km + 3x80m strides"
+        "detail": "12 km a pace 8:00-8:30 min/km, Z2. Primer rodaje real post-5150. Sin presión de tiempo"
+      }
+    ]
+  },
+  {
+    "week": 34,
+    "dates": "Sep 14-20",
+    "phase": 2,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso activo",
+        "detail": "🏃 INICIO BLOQUE FINAL MARATÓN — 10 semanas para el 29 nov. Movilidad 20 min"
       },
       {
-        "day": "Miércoles 25",
-        "activity": "Caminata",
-        "detail": "30 min + estiramientos"
-      },
-      { "day": "Jueves 26", "activity": "Descanso", "detail": "Completo" },
-      {
-        "day": "Viernes 27",
-        "activity": "Caminata",
-        "detail": "20 min + visualización"
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Retorno a clases. Sesión técnica suave: 4x200m con 1 min descanso. Reencontrar el ritmo. 45-60 min"
       },
       {
-        "day": "Sábado 28",
+        "day": "Miércoles",
+        "activity": "🚴 Bici Rouvy Z2",
+        "detail": "60 min a 170-190w, cadencia 85-90 rpm. Retorno a bici normal. Mantener la base"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera calidad",
+        "detail": "10 km: 2 km calent + 5 km a pace 7:20-7:30 min/km (pace maratón) + 3 km Z2. Primer trabajo específico de maratón post-5150"
+      },
+      {
+        "day": "Viernes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Series 4x300m con 1 min descanso. Mantener el nivel alcanzado. 45-60 min"
+      },
+      {
+        "day": "Sábado",
+        "activity": "🚴 Bici Rouvy Z2-Z3",
+        "detail": "65 min: 15 min calent + 3x10 min a 200-215w Z3 con 5 min Z2 + 10 min enfr"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "20 km a pace 7:45-8:15 min/km, Z2. Primer largo del bloque final. Gel en km 12 y km 17"
+      }
+    ]
+  },
+  {
+    "week": 35,
+    "dates": "Sep 21-27",
+    "phase": 2,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso activo",
+        "detail": "Rodillo de espuma + estiramientos 20 min"
+      },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Series 5x200m con 50s descanso. Mantener la base de natación construida. 45-60 min"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "🚴 LADRILLO 7 corto Bici+Carrera",
+        "detail": "Ladrillo 7: 50 min bici Rouvy a 175-190w Z2 → inmediato 15 min carrera Z2 pace 8:00-8:15. Mantener la transición activa"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Fartlek carrera",
+        "detail": "12 km: 2 km calent + 8x(1:30 min a pace 6:15-6:30 + 2:30 min Z2) + 2 km enfr"
+      },
+      {
+        "day": "Viernes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "1000m continuos de mantenimiento. Sin presión de tiempo. 45-60 min"
+      },
+      {
+        "day": "Sábado",
+        "activity": "🚴 Bici Rouvy Z2",
+        "detail": "70 min a 175-190w, cadencia 85-90 rpm. Mantener aeróbico sin impacto extra"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "24 km a pace 7:45-8:15 min/km, Z2. Gel en km 14 y km 20"
+      }
+    ]
+  },
+  {
+    "week": 36,
+    "dates": "Sep 28-Oct 4",
+    "phase": 2,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso activo",
+        "detail": "Movilidad articular 20 min. 8 semanas para el maratón"
+      },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Sesión técnica: 6x150m con énfasis en deslizamiento. 45-60 min"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "🚴 Bici Rouvy Z2-Z3",
+        "detail": "70 min: 15 min calent + 4x8 min a 205-220w Z3 con 5 min Z2 entre series + 10 min enfr"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Tempo carrera",
+        "detail": "14 km: 2 km calent + 8 km a pace 7:00-7:15 min/km Z3 continuo + 2 km Z2 + 2 km enfr"
+      },
+      {
+        "day": "Viernes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Series 4x250m con 1 min descanso. Ritmo constante. 45-60 min"
+      },
+      {
+        "day": "Sábado",
         "activity": "Descanso",
-        "detail": "Preparar todo para mañana"
+        "detail": "Descanso completo. Preparar cuerpo para el largo del domingo"
       },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "28 km a pace 7:45-8:15 min/km, Z2. Gel en km 14, km 20, km 25. Semana de carga alta"
+      }
+    ]
+  },
+  {
+    "week": 37,
+    "dates": "Oct 5-11",
+    "phase": 2,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso completo",
+        "detail": "SEMANA DESCARGA — Crítica para absorber el entrenamiento de las últimas semanas"
+      },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Sesión suave: 4x200m con 1 min descanso. Sin fatiga acumulada. 45 min"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "🚴 Bici Rouvy suave",
+        "detail": "50 min a 155-170w, Z1-Z2. Piernas sueltas. Sin series de calidad"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera fácil",
+        "detail": "8 km a pace 8:00-8:30 min/km, Z1-Z2. Conversacional. Sin cronómetro"
+      },
+      {
+        "day": "Viernes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Técnica: pull buoy 6x100m. Sensaciones de descanso activo. 45 min"
+      },
+      {
+        "day": "Sábado",
+        "activity": "🚴 Bici Rouvy corta Z2",
+        "detail": "50 min a 165-180w, cadencia 85 rpm. Piernas frescas para próxima semana"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "18 km a pace 7:45-8:15 min/km, Z2. Descarga programada"
+      }
+    ]
+  },
+  {
+    "week": 38,
+    "dates": "Oct 12-18",
+    "phase": 2,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso activo",
+        "detail": "Estiramientos y movilidad 20 min. 6 semanas para el maratón"
+      },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Series 5x200m con 50s descanso. Consolidar base de natación. 45-60 min"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "🚴 Bici Rouvy Z2-Z3",
+        "detail": "65 min: 15 min calent + 3x12 min a 205-220w Z3 con 5 min Z2 entre series + 10 min enfr"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Intervalos carrera",
+        "detail": "12 km: 2 km calent + 5x(1 km a pace 6:15-6:25 + 90s trote Z1) + 3 km enfr Z2"
+      },
+      {
+        "day": "Viernes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "1200m continuos o 2x600m con 2 min descanso. Mantener el nivel. 45-60 min"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Descanso",
+        "detail": "Descanso completo. Preparar el largo del domingo"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga PICO",
+        "detail": "32 km a pace 7:45-8:15 min/km, Z2. MÁXIMA DISTANCIA DEL PLAN. Gel en km 14, km 20, km 25, km 29. Gran hito de la temporada 🎉"
+      }
+    ]
+  },
+  {
+    "week": 39,
+    "dates": "Oct 19-25",
+    "phase": 2,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso completo",
+        "detail": "Recuperación post-32km. Crioterapia, piernas elevadas 20 min, proteína y carbohidratos en cada comida"
+      },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Recuperación activa: 30-40 min muy suave sin series. Solo nadar tranquilo. 45 min"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "🚴 Bici Rouvy suave",
+        "detail": "45 min a 150-165w, Z1. Recuperación activa en bici. Sin ningún esfuerzo"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera suave",
+        "detail": "8 km a pace 8:00-8:30 min/km, Z1-Z2. Recuperación activa. Sin cronómetro"
+      },
+      {
+        "day": "Viernes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Series técnicas: 4x200m con descanso generoso 1 min. 45 min"
+      },
+      {
+        "day": "Sábado",
+        "activity": "🚴 Bici Rouvy Z2",
+        "detail": "55 min a 165-180w, cadencia 85 rpm. Recuperación activa"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "22 km a pace 7:45-8:15 min/km, Z2. Descarga post-pico de 32km. Gel en km 14"
+      }
+    ]
+  },
+  {
+    "week": 40,
+    "dates": "Oct 26-Nov 1",
+    "phase": 2,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso activo",
+        "detail": "🎯 INICIO TAPER MARATÓN — 4 semanas. Reducir volumen, mantener 2 sesiones de intensidad por semana"
+      },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Sesión técnica suave. Mantener el hábito sin fatiga. 4x200m con 1 min descanso. 45 min"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "🚴 Bici Rouvy Z2",
+        "detail": "55 min a 170-185w, cadencia 85-90 rpm. Mantener aeróbico sin acumular"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Tempo carrera",
+        "detail": "10 km: 2 km calent + 5 km a pace 7:20-7:30 min/km (pace maratón objetivo) + 3 km enfr. Sentir el ritmo objetivo con piernas frescas"
+      },
+      {
+        "day": "Viernes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "4x200m con 1 min descanso. Última semana con volumen moderado en piscina. 45 min"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Descanso",
+        "detail": "Descanso completo. Preparar cuerpo para el largo"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "26 km a pace 7:45-8:15 min/km, Z2. Último largo antes del taper final. Gel en km 14 y km 22"
+      }
+    ]
+  },
+  {
+    "week": 41,
+    "dates": "Nov 2-8",
+    "phase": 2,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso activo",
+        "detail": "Rodillo + estiramientos 20 min. Taper semana 2. 3 semanas para el maratón"
+      },
+      {
+        "day": "Martes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Sesión corta: 4x150m con 50s descanso. Sin fatiga. Mantener el hábito. 30-40 min"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "Carrera calidad",
+        "detail": "8 km: 2 km calent + 4 km a pace 7:20-7:30 min/km (pace maratón) + 2 km enfr. Sentir el ritmo objetivo"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Fartlek suave",
+        "detail": "8 km: 2 km calent + 6x(1 min Z3 pace 6:45 + 3 min Z2) + 2 km enfr. Mantener velocidad sin destruir piernas"
+      },
+      {
+        "day": "Viernes",
+        "activity": "🏊 Natación (clase)",
+        "detail": "Sesión de mantenimiento: 600m técnica muy suave. Sin presión. 30 min"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Descanso completo",
+        "detail": "Sin entrenar. Taper maratón: máximo descanso para llegar fresco al domingo"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga",
+        "detail": "20 km a pace 7:45-8:15 min/km, Z2. Taper reduciendo distancia progresivamente. Gel en km 12"
+      }
+    ]
+  },
+  {
+    "week": 42,
+    "dates": "Nov 9-15",
+    "phase": 2,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso activo",
+        "detail": "Movilidad suave 15 min. Taper semana 3. 2 semanas para el maratón. Empezar a dormir 8+ horas"
+      },
+      {
+        "day": "Martes",
+        "activity": "Carrera con ritmo",
+        "detail": "6 km: 2 km calent + 2 km a pace 7:20-7:30 min/km + 2 km enfr. Solo activar y sentir el ritmo"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "🚴 Bici Rouvy muy suave",
+        "detail": "30 min a 145-160w, Z1. Solo mover piernas. Sin ningún esfuerzo"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Carrera activación",
+        "detail": "6 km Z2 pace 8:00 + 4x100m strides a pace 5:30 al final. Sentir las piernas frescas y ágiles"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso completo",
+        "detail": "Sin entrenar. 2 semanas para el maratón. Piernas frescas prioridad"
+      },
+      {
+        "day": "Sábado",
+        "activity": "🏊 Natación suave",
+        "detail": "20-25 min muy suave. Última sesión de natación de la temporada. Sin esfuerzo. Sin series"
+      },
+      {
+        "day": "Domingo",
+        "activity": "Carrera larga suave",
+        "detail": "14 km a pace 8:00-8:15 min/km, Z2 suave. Último largo antes del maratón"
+      }
+    ]
+  },
+  {
+    "week": 43,
+    "dates": "Nov 16-28",
+    "phase": 2,
+    "workouts": [
+      {
+        "day": "Lunes",
+        "activity": "Descanso activo",
+        "detail": "SEMANA DEL MARATÓN. Movilidad suave 15 min. Inicio carga de carbohidratos progresiva: añadir 1 porción extra de arroz/pasta/avena en cada comida"
+      },
+      {
+        "day": "Martes",
+        "activity": "Carrera suave",
+        "detail": "5 km a pace 8:15-8:30 min/km, Z1. Solo sentir las piernas. Nada de esfuerzo"
+      },
+      {
+        "day": "Miércoles",
+        "activity": "Carrera muy suave con strides",
+        "detail": "4 km Z1 pace 8:30 + 4x100m strides a pace 5:30. Carga de carbohidratos: pasta o arroz en almuerzo y cena"
+      },
+      {
+        "day": "Jueves",
+        "activity": "Activación final",
+        "detail": "3 km pace 8:30 Z1 + 3x100m strides. Último entrenamiento real. Cenar temprano, dormir 9pm"
+      },
+      {
+        "day": "Viernes",
+        "activity": "Descanso completo",
+        "detail": "Preparar todo: dorsal, chip, zapatillas (las que ya tienes probadas), geles x6, ropa. Comida grande al mediodía: arroz + pollo + papa. Cena ligera 7pm. Dormir 9pm"
+      },
+      {
+        "day": "Sábado",
+        "activity": "Descanso completo",
+        "detail": "Paseo suave 20 min máximo. Desayuno y almuerzo de carbohidratos. Hidratación constante pero sin excesos. Dormir mínimo 8 horas. Poner alarma para el domingo"
+      }
+    ]
+  },
+  {
+    "week": "CARRERA",
+    "dates": "Nov 29",
+    "phase": 2,
+    "workouts": [
       {
         "day": "Domingo 29",
-        "activity": "🏆 MARATÓN BOGOTÁ",
-        "detail": "42K - ¡A POR ELLO! Objetivo 5:15-5:30"
+        "activity": "🏃 MARATÓN BOGOTÁ 2026",
+        "detail": "42.195 km. Pace objetivo: 7:20-7:40 min/km → Meta: 5:10-5:25. Estrategia de 3 bloques: km 1-14 conservador a 7:45 (no dejarte llevar por la euforia), km 15-30 a pace objetivo 7:20-7:30, km 31-42 a lo que el cuerpo permita. Geles en km 10, 17, 24, 30, 35. Hidratar en cada estación. ¡Todo el año llega a este momento! 🎉🏅"
       }
     ]
   }
